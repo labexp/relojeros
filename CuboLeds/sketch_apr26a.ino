@@ -1,7 +1,6 @@
 int Columnas[] = {1, 2, 3, 4, 5, 6, 7, 8, 9};
  
 int Filas[] = {12, 11, 10};
-int potPin = 0; // conectado al analogo 0
 void setup()
 {
   int contador;
